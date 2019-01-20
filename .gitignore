@@ -1,0 +1,5 @@
+vendor/
+.phpintel/
+.env
+composer.lock
+php.exe.stackdump
